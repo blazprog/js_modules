@@ -1,0 +1,16 @@
+{
+  "name": "backbone-contacts ",
+  "version": "0.0.1",
+  "description": "Example code for the book Mastering Backbone.js",
+  "author": "Abiee Alejandro <abiee.alejandro@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.4.0",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "jstify": "^0.14.0"
+  }
+}
